@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @bharathkumarvenukanti
-This My Shop - automationpractice.pl project aims to ensure high-quality application testing, gain valuable testing experience and improve the testing process through automation. I will use a variety of tools and technologies to achieve my project goals. Once the testing is complete, I will carefully analyze the results so as not to make the same mistakes of mistakes in the future. Through this work, I can also expand my knowledge of testing and improve my skills. I believe that this project will benefit both me and those starting out in testing.
+
